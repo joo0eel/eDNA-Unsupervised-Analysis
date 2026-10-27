@@ -1,0 +1,10 @@
+cluster,size,top genera (post-hoc),dominant group,group purity,dominant class,class purity,representative ASV,poorly resolved %,mean GC,median stations,reads %
+C0,10,-,Radiolaria,1.0,Acantharea,1.0,ASV_433 (Acantharea),100,0.419,10,0.1
+C1,103,"Clausocalanus (42), Cosmocalanus (9), Neocalanus (7)",Metazoa,1.0,Arthropoda,1.0,ASV_160 (Maxillopoda),0,0.422,10,25.8
+C2,84,"Calocalanus (58), Paracalanus (9), Acrocalanus (8)",Metazoa,1.0,Arthropoda,1.0,ASV_467 (Calocalanus),0,0.412,9,26.7
+C3,59,"Tripos (7), Blastodinium (3), Phalachroma (2)",Dinoflagellata,0.75,Dinophyceae,0.44,ASV_313 (Goniodoma polyedricum (Pouchet)),63,0.451,10,1.0
+C4,72,"Acartia (9), Meganyctiphanes (2), Aplysia (2)",Metazoa,0.94,Arthropoda,0.33,ASV_461 (Mollusca),53,0.473,8,3.0
+C5,44,"Collozoum (37), Sphaerozoum (2), Disolenia (2)",Radiolaria,0.95,Polycystinea,0.95,ASV_161 (Collozoum inerme (J. Müller)),5,0.355,3,7.6
+C6,31,"Amphorides (3), Steenstrupiella (3), Dictyocysta (3)",Ciliophora,0.94,Spirotrichea,0.9,ASV_471 (Salpingella),10,0.439,7,0.4
+C7,80,"Oithona (34), Corycaeus (9), Sapphirina (6)",Metazoa,1.0,Arthropoda,1.0,ASV_019 (Maxillopoda),0,0.442,10,33.1
+C8,15,-,Metazoa,1.0,Cnidaria,1.0,ASV_264 (Cnidaria),100,0.428,8,2.3
